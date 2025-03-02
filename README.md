@@ -10,9 +10,9 @@ Relevant literature used for calculations is provided in the reference section b
 
 This repository is organized into the following sub-folders:
 
-### **1️⃣ Geoparameters Characterization**
+### **1️⃣ Geoparameters Characterization**(https://github.com/DanielChou0916/CPTu_data_analysis/blob/main/geoparams/Geoparameters.ipynb)
    - Demonstrates an example of evaluating **strength parameters** from **CPTu data**.  
-   - Includes calculations for soil **friction angle**, **cohesion**, and other geotechnical properties.
+   - Includes calculations for soil **unit weight**, **friction angle**, and other geotechnical properties.
 
 ### **2️⃣ Machine Learning for Soil Behavior Classification**
    - Uses a **cleaned CPTu dataset** to train a **machine learning model** for **soil behavior type (SBT) classification**.  
