@@ -13,7 +13,7 @@ This repository is organized into the following sub-folders:
 ### **1️⃣ Geoparameters Characterization**
    - Demonstrates an example of evaluating **strength parameters** from **CPTu data**.  
    - Includes calculations for soil **unit weight**, **friction angle**, and other geotechnical properties.
-   -📌 Click below to view the notebook:
+   - 📌 Click below to view the notebook:
    https://github.com/DanielChou0916/CPTu_data_analysis/blob/main/geoparams/Geoparameters.ipynb
 
 
