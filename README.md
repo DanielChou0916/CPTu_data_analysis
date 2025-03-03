@@ -18,7 +18,7 @@ This repository is organized into the following sub-folders:
 ### **2️⃣ Machine Learning for Soil Behavior Classification**
    - Uses a **cleaned CPTu dataset** to train a **machine learning model** for **soil behavior type (SBT) classification**.  
    - Applies ML techniques to predict soil types based on CPTu measurements.
-   - 📌 Click [here]() to view the notebook (This item is still under construction!!!)
+   - 📌 Click [here](https://github.com/DanielChou0916/CPTu_data_analysis/blob/main/classification_of_cptu_data/README.md) to view the notebook (This item is still under construction!!!)
 
 ---
 
