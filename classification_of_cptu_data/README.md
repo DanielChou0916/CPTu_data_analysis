@@ -19,6 +19,7 @@ Five features are used for the next stage: **Depth, Cone Resistance, Sleeve Fric
 
 🔹 **Notebook for feature correlations**:  
 [📖 View `2_Feature_analysis.ipynb`](https://github.com/DanielChou0916/CPTu_data_analysis/blob/main/classification_of_cptu_data/2_Feature_analysis.ipynb) 
+
 📊 **Correlation coefficients and Mutual information**
 ![Correlation coefficients and Mutual information](https://raw.githubusercontent.com/DanielChou0916/CPTu_data_analysis/main/classification_of_cptu_data/correlation.png)
 
