@@ -16,7 +16,7 @@ Before training the machine learning model, the **raw CPTu dataset** undergoes p
 ### **📊 SBT Class Distribution Before & After Cleaning**
 The distribution of each **SBT category** before and after the data cleaning process is shown below:
 
-![SBT Distribution]([classification_of_cptu_data/cleaning.png](https://github.com/DanielChou0916/CPTu_data_analysis/blob/main/classification_of_cptu_data/cleaning.png))
+![SBT Distribution]([cleaning.png](cleaning.png))
 
 ---
 ## 📂 **Step 2: ML model training**(still under construction!!)
